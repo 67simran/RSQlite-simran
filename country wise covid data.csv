@@ -1,4 +1,4 @@
-Country/Region,Confirmed,Deaths,Recovered,Active,Deaths / 100 Cases,Recovered / 100 Cases,Deaths / 100 Recovered,WHO Region
+Country/Region,X,Y,Recovered,Active,Deaths / 100 Cases,Recovered / 100 Cases,Deaths / 100 Recovered,WHO Region
 Afghanistan,36263,1269,25198,9796,3.5,69.49,5.04,Eastern Mediterranean
 Albania,4880,144,2745,1991,2.95,56.25,5.25,Europe
 Algeria,27973,1163,18837,7973,4.16,67.34,6.17,Africa
