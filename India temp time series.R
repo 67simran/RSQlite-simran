@@ -12,7 +12,7 @@
      # view the time column
      tas_timeseries_annual_cru_1901_2020_IND$India
      
-     # q plot stands for quick plot. Let's use it to plot your data
+     
      qplot(x = tas_timeseries_annual_cru_1901_2020_IND$Time,
            y = tas_timeseries_annual_cru_1901_2020_IND$India)
      
