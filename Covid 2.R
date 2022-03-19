@@ -1,0 +1,8 @@
+library(readxl)
+country_wise_covid_data_xls <- read_excel("C:\\Users\\visha\\OneDrive\\Documents\\R\\win-library\\4.1\\country-wise-covid-data.xls.xls")
+data.frame(covid_2)
+head(covid_2)
+mean(covid$X)
+plot(covid$X)
+plot(covid_2$Recovered)
+plot(covid_2$`Recovered / 100 Cases`)
