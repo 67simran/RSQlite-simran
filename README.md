@@ -9,6 +9,8 @@ Test: Plot a time-series line chart on a dataset of your choice with different v
 #Author: Simran
 #Name: RSQLiteAdmin Visualisation Tools
 
+Medium 1
+
 #Plot a time-series line chart on a dataset of your choice with different variables in a single chart. Customize it to make it clear and insightful.
 
      
